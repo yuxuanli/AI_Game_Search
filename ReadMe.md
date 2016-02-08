@@ -19,5 +19,5 @@ This file is used for output the next state file and create a traverse log of th
 This file is used to test whether my output is the same with the official standrad output.
 
 5. **Test Cases Files**<br />
-There are totally five test case set.
+There are totally five test cases.
 
