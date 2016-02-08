@@ -42,4 +42,4 @@ def fileCompare(fileName1,fileName2):
 # fileCompare('./4/traverse_log.txt','./4/AlphaBeta_log.txt')
 
 # Test case 5 Battle Simulation
-# fileCompare('./5/trace_state.txt','./5/BATTLESIMULATION.txt')
+fileCompare('./5/trace_state.txt','./5/BATTLESIMULATION.txt')
