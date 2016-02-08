@@ -2,7 +2,7 @@
 
 This is a special chess game where I implement three game search algorithms: Greedy First Search, MiniMax Search, Alpha-Beta Search.
 
-You may find the detail description of this game in pdf format [HERE](https://www.dropbox.com/s/wybwlq3fe0vokoj/AI_Game_Search_Description.pdf?dl=0&preview=AI_Game_Search_Description.pdf)
+You may find the detailed description of this game in pdf format [HERE](https://www.dropbox.com/s/wybwlq3fe0vokoj/AI_Game_Search_Description.pdf?dl=0&preview=AI_Game_Search_Description.pdf)
 
 This repository contains the following files:<br />
 
