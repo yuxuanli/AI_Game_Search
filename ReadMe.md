@@ -22,3 +22,6 @@ This file is used to test whether my output is the same with the official standr
 5. **Test Cases Files**<br />
 There are totally five test cases.
 
+---
+UPDATED NEWS: This homework got full score 100/100 <^.^>
+
